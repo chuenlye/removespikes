@@ -1,5 +1,10 @@
 README for removespikes.pl
 
+This version is based on the tarball from http://oss.oetiker.ch/rrdtool/pub/contrib/removespikes-20080226-mkn.tar.gz
+and do some minor fix for ganglia use.
+
+Chuenlye Leo (chuenlye.leo at gmail dot com)
+--------------------------------------------
 This version of removespikes.pl is based on Vins Vilaplana and
 Humberto Rossetti Baptistas code.
 
